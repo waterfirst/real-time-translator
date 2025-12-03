@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-**[👉 https://waterfirst.github.io/International-conference-helper/](https://waterfirst.github.io/International-conference-helper/)**
+**[👉 https://waterfirst.github.io/real-time-translator/](https://waterfirst.github.io/real-time-translator/)**
 
 ## ✨ Features
 
